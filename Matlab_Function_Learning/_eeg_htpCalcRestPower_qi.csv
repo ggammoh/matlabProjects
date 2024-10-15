@@ -1,0 +1,2 @@
+eegid,filename,scriptname,timestamp,trials,points,srate,xmin,xmax
+EGI file,0228_BBLong.raw,eeg_htpCalcRestPower,241014195959,1,801275,1000,0,801.274

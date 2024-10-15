@@ -1,0 +1,12 @@
+name: entrain_analysis_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - mne
+  - fooof
+  - scipy
+  - numpy
+  - pandas
+  - seaborn
+  - scikit-learn
